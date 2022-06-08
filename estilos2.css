@@ -72,40 +72,40 @@
 
 #itemCarrousel-1{
 	background-color: hsla(134, 42%, 50%,0.7);
-	background-image: url("IMAGENES2/carrusel.jfif");
+	background-image: url("CARRUSEL/carrusel.jfif");
 }
 
 #itemCarrousel-2{
     background-color: hsla(189, 70%, 77%,0.7);
-	background-image: url("IMAGENES2/carrusel2.jfif");
+	background-image: url("CARRUSEL/carrusel2.jfif");
 }
 
 #itemCarrousel-3{
     background-color: hsla(0, 90%, 47%,0.7);
-	background-image: url("IMAGENES2/carrusel3.jfif");
+	background-image: url("CARRUSEL/carrusel3.jfif");
 }
 
 #itemCarrousel2-1{
 	background-color: hsla(134, 42%, 50%,0.7);
-	background-image: url("IMAGENES2/revista1.jpg");
+	background-image: url("REVISTA/revista1.jpg");
 }
 
 #itemCarrousel2-2{
     background-color: hsla(189, 70%, 77%,0.7);
-	background-image: url("IMAGENES2/revista2.jpg");
+	background-image: url("REVISTA/revista2.jpg");
 }
 
 #itemCarrousel2-3{
     background-color: hsla(0, 90%, 47%,0.7);
-	background-image: url("IMAGENES2/revista3.jpg");
+	background-image: url("REVISTA/revista3.jpg");
 }
 #itemCarrousel2-4{
     background-color: hsla(0, 90%, 47%,0.7);
-	background-image: url("IMAGENES2/revista4.jpg");
+	background-image: url("REVISTA/revista4.jpg");
 }
 #itemCarrousel2-5{
     background-color: hsla(0, 90%, 47%,0.7);
-	background-image: url("IMAGENES2/revista5.jpg");
+	background-image: url("REVISTA/revista5.jpg");
 }
 
 .conteCarrouselController{
